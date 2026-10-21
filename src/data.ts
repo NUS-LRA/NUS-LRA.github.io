@@ -110,8 +110,8 @@ export const MEMBERS: Member[] = [
   {
     id: "fu-guoji",
     name: "Fu Guoji",
-    role: "ra",
-    title: "Research Assistant"
+    role: "phd",
+    title: "PhD Student"
   },
   {
     id: "dixant-mittal",
