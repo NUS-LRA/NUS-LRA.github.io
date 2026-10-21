@@ -138,26 +138,8 @@ export const MEMBERS: Member[] = [
     title: "Alumni"
   },
   {
-    id: "aditya-ganesh-kumar",
-    name: "Aditya Ganesh Kumar",
-    role: "alumni",
-    title: "Alumni"
-  },
-  {
     id: "liu-zichen",
     name: "Liu Zichen",
-    role: "alumni",
-    title: "Alumni"
-  },
-  {
-    id: "gao-gui",
-    name: "Gao Gui",
-    role: "alumni",
-    title: "Alumni"
-  },
-  {
-    id: "li-kaixin",
-    name: "Li Kaixin",
     role: "alumni",
     title: "Alumni"
   },
