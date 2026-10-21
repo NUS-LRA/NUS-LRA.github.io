@@ -10,7 +10,7 @@ export const LAB_INFO = {
   email: "dcsleews@nus.edu.sg",
   phone: "+65 6516 4526",
   fax: "+65 6779 4580",
-  pi: "Prof. Lee Wee Sun",
+  pi: "Prof. LEE Wee Sun",
   tagline: "We build agents that learn from experience and reason to make robust decisions.",
   aboutText: "The Learning and Reasoning Agent Group (LRA) is part of the School of Computing at the National University of Singapore. Our research investigates how agents can learn from data and reason about the world in order to act effectively. We develop the foundations and algorithms that enable intelligent systems to learn, reason, and make robust decisions in complex environments."
 };
@@ -52,7 +52,7 @@ export const RESEARCH: Research[] = [
 export const MEMBERS: Member[] = [
   {
     id: "lee-wee-sun",
-    name: "Lee Wee Sun",
+    name: "LEE Wee Sun",
     role: "faculty",
     title: "Professor · Principal Investigator",
     email: "dcsleews@nus.edu.sg",
