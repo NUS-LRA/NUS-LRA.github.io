@@ -7,7 +7,7 @@ export const LAB_INFO = {
   institution: "National University of Singapore",
   location: "School of Computing, National University of Singapore, 13 Computing Drive, Singapore 117417, Republic of Singapore",
   office: "COM3 02-28",
-  email: "leews@comp.nus.edu.sg",
+  email: "dcsleews@nus.edu.sg",
   phone: "+65 6516 4526",
   fax: "+65 6779 4580",
   pi: "Prof. Lee Wee Sun",
@@ -55,8 +55,8 @@ export const MEMBERS: Member[] = [
     name: "Lee Wee Sun",
     role: "faculty",
     title: "Professor · Principal Investigator",
-    email: "leews@comp.nus.edu.sg",
-    website: "https://www.comp.nus.edu.sg/~leews/",
+    email: "dcsleews@nus.edu.sg",
+    website: "https://www.comp.nus.edu.sg/cs/people/leews/",
     researchInterests: ["Machine Learning", "Planning Under Uncertainty"]
   },
   {
